@@ -1,0 +1,12 @@
+#display-firstname{
+    
+    width: 1000px;
+    height: 20px;
+  
+    
+}
+
+#firstname{
+    display: block;
+    margin-bottom: 10px;
+}
